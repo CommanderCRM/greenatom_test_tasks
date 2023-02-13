@@ -1,4 +1,4 @@
-# greenatom_test_tasks
+# Greenatom Test Tasks
 Test tasks for Greenatom internship
 
 Basic level: ```test_normal.ipynb```
